@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DeliciousDayApp</string>
+    <string name="strike"><strike>70 руб</strike></string>
+    <string name="strike2"><strike>80 руб</strike></string>
+    <string name="strike3"><strike>75 руб</strike></string>
+    <string name="strike4"><strike>90 руб</strike></string>
+    <string name="name_donat_one">"Розовая страсть"</string>
+    <string name="name_donat_two">"Шоколадная вечеринка"</string>
+    <string name="name_donat_three">"Ванильное чудо"</string>
+    <string name="name_donat_four">"Смурфик"</string>
+    <string name="name_pie_one">"Оазис"</string>
+    <string name="name_pie_two">"Ягодный улей"</string>
+    <string name="strike_pie_one"><strike>2000 руб</strike></string>
+    <string name="strike_pie_two"><strike>1000 руб</strike></string>
+    <string name="level">Уровень: "Бронзовый"</string>
+</resources>
