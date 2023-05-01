@@ -418,7 +418,7 @@
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="39 руб. \n99 коп."
+                            android:text="40 руб. \n99 коп."
                             android:fontFamily="@font/mooglesansmedium"
                             android:textColor="@color/pink"
                             android:textSize="10sp"
